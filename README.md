@@ -53,8 +53,3 @@ your_project_directory/
 ├── main.py
 └── README.md
 ```
-
-## contributor 🤝
-
-Contributor:**Pratik Wayal**. Feel free to connect: [GitHub](https://github.com/pratikwayal01). All contributions are welcome! 🌟
-```
